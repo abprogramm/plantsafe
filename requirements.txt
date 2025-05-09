@@ -1,12 +1,4 @@
 Flask
-ultralytics # This will pull in torch, torchvision, numpy, Pillow, pyyaml etc.
-opencv-python-headless # For cv2 functions
-gunicorn # For deployment
-
-# Optional, but recommended for pinning versions:
-# You can find compatible versions used by ultralytics after install
-# and pin them here for more stable builds, e.g.:
-# torch==2.x.x
-# torchvision==0.x.x
-# numpy==1.2x.x
-# Pillow==10.x.x
+ultralytics 
+opencv-python-headless
+gunicorn 
